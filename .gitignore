@@ -1,0 +1,5 @@
+env/*
+.idea/*
+tester.py
+test_images/*
+output/*
